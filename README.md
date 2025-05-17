@@ -7,10 +7,9 @@ Este projeto foi desenvolvido como parte da disciplina de **Sistemas Operacionai
 - Escolha entre os algoritmos FIFO e SJF
 - Cálculo dos tempos de espera e turnaround para cada processo
 - Cálculo das médias de tempo de espera e turnaround
-- Interface simples e interativa (HTML, CSS, TypeScript)
+- Interface simples e interativa (Next.js, TypeScript)
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML
-- CSS
+- Next.js
 - TypeScript
