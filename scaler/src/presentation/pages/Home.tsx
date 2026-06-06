@@ -38,7 +38,7 @@ export default function Home() {
         </header>
 
         <div className="max-w-6xl mx-auto px-4 py-8">
-          
+
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
             <div className="lg:col-span-1">
               <div className="sticky top-24 space-y-6">
@@ -87,6 +87,7 @@ export default function Home() {
                   reset={esc.reset}
                 />
               )}
+              
 
               {esc.result && (
                 <div className="bg-white bg-opacity-5 backdrop-blur-md rounded-xl border border-white border-opacity-10 overflow-hidden">
